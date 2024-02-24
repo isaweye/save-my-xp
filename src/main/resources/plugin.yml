@@ -1,0 +1,7 @@
+name: SaveMyXP
+version: '${project.version}'
+main: uk.mqchinee.savemyxp.SaveMyXP
+authors: [ mqchinee ]
+description: Save My XP!
+permissions:
+  savemyxp.save: {}
